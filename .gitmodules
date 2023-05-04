@@ -1,0 +1,6 @@
+[submodule "fe"]
+	path = fe
+	url = https://github.com/dtung93/EcommerceDXT-FE.git
+[submodule "be"]
+	path = be
+	url = https://github.com/dtung93/EcommerceDXT-BE.git
